@@ -73,6 +73,6 @@ I also completed both Wireshark quizzes on the Networkwalks platform (1 November
 
 **Name:** Malik Muhammad Faheem Badar
 **Program:** Networkwalks Cybersecurity Internship, Week 1
-**LinkedIn:** *(your LinkedIn URL)*
+
 
 Lab platform: [networkwalks.com/wireshark](https://networkwalks.com/wireshark/)
